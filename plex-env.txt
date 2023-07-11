@@ -1,0 +1,12 @@
+# PlexIp is should be the private ip (your local network ip) of the host system that the plex server runs on.
+PlexIp=192.168.77.55
+# PlexPort will nearly always be 32400, making this a variable for those people who may be running using a different port no.
+PlexPort=32400
+# PlexToken this is the api access token for you plex server, there is nowadays no simple way to display this, the easiest way to get it is to...
+# - Log into plex.tv in your browser
+# - Go to a media library and select anything, a film, a track, a tv episode ect.
+# - Open the ... menu and elect 'more' > 'get info'
+# - This opens the 'Media Info' window, in here select 'View XML' this will open a new xml webpage
+# - A the end of the web pages address bar you will find the X-Plex-Token
+# - Here is the official page on the subject "https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/"
+PlexToken=
