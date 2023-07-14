@@ -1,5 +1,5 @@
 # PlexIp is should be the private ip (your local network ip) of the host system that the plex server runs on.
-PlexIp=192.168.77.55
+PlexIp=
 # PlexPort will nearly always be 32400, making this a variable for those people who may be running using a different port no.
 PlexPort=32400
 # PlexToken this is the api access token for you plex server, there is nowadays no simple way to display this, the easiest way to get it is to...
