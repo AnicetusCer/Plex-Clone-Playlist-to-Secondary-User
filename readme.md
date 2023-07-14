@@ -27,10 +27,6 @@ These scripts allow you to sync Plex playlists to shared users using the Plex AP
 
 3. Run the `plex-playlists-list.py` script to list all the available playlists in your Plex server. This script reads the Plex server details from the `plex-env.txt` file.
 
-Certainly! Here's an example of a README.md file that provides instructions on how to use the two scripts and the environment file:
-
-markdown
-
 # Plex Playlist Sync Scripts
 
 These scripts allow you to sync Plex playlists to shared users using the Plex API. The scripts are written in Python and utilize the `plexapi` library.
